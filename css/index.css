@@ -1,4 +1,13 @@
-.jumbotron{
-    background-color: black;
-    color: skyblue;
+body {
+    background-image: url("https://s.yimg.com/wb/images/BB286236A0D8972A820C5B52CBD5ACEDE9C46422");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+}
+h1{
+    color: #0087ff;
+    font-size: 50px;
+}
+pre{
+    color: pink;
 }
